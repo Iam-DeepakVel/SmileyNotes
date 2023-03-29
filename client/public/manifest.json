@@ -1,0 +1,25 @@
+{
+  "short_name": "SmileyNotes",
+  "name": "SmileyNotes | A Notes Taking Application",
+  "icons": [
+    {
+      "src": "smiley_icon.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "smiley_icon.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "smiley_icon.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
